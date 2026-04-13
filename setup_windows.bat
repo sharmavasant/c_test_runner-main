@@ -38,10 +38,10 @@ if %errorlevel% neq 0 (
 echo.
 echo ============================================
 echo   All checks done. Run the app with:
-echo     python c_test_runner20.py
+echo     python c_test_runner35.py
 echo ============================================
 echo.
 
 :: Launch directly
-python c_test_runner20.py
+python c_test_runner35.py
 pause
